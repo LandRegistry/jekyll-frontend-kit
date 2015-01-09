@@ -1,6 +1,6 @@
 Jekyll Frontend Kit
 ===================
-[![Build Status](https://travis-ci.org/LandRegistry/jekyll-frontend-kit.svg?branch=master)](https://github.com/LandRegistry/jekyll-frontend-kit)
+[![Build Status](https://travis-ci.org/LandRegistry/jekyll-frontend-kit.svg?branch=master)](https://travis-ci.org/LandRegistry/jekyll-frontend-kit)
 
 Made with [Jekyll](http://jekyllrb.com/), [Bootstrap](http://getbootstrap.com/), [Bootswatch](http://bootswatch.com/) & [Font Awesome](http://fortawesome.github.io/Font-Awesome/).
 
