@@ -6,12 +6,14 @@ Made with [Jekyll](http://jekyllrb.com/), [Bootstrap](http://getbootstrap.com/),
 
 Tested with [HTML Proofer](https://github.com/gjtorikian/html-proofer).
 
-Deployed by [Travis CI](https://travis-ci.org/matthew-shaw/matthew-shaw.github.io).
+Deployed by [Travis CI](https://travis-ci.org/).
 
-Hosted by [MaxCDN](http://www.bootstrapcdn.com/) and [GitHub Pages](https://pages.github.com/).
+### Prerequisites 
+* [Ruby](https://www.ruby-lang.org/en/downloads/)
+* [RubyGems](http://rubygems.org/pages/download)
+* [Bundler](http://bundler.io/)
 
 ### Getting started
-Requires [Ruby](https://www.ruby-lang.org/en/downloads/) and [RubyGems](http://rubygems.org/pages/download).
 ```
 git clone git@github.com:LandRegistry/jekyll-frontend-kit.git
 cd jekyll-frontend-kit
