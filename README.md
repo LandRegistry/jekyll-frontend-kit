@@ -20,6 +20,7 @@ cd jekyll-frontend-kit
 bundle install
 bundle exec jekyll serve
 ```
+Go to [http://0.0.0.0:4000/jekyll-frontend-kit/](http://0.0.0.0:4000/jekyll-frontend-kit/)
 
 ### Running tests
 This is the same script that Travis runs during the build, run this locally before pushing to avoid broken builds:
